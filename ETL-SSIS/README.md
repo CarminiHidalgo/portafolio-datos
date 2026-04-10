@@ -27,8 +27,7 @@ Los datos procesados se insertan en tablas de SQL Server.
 - Automatización del flujo ETL
 
 ## Evidencia
-[Práctica 8 - Implementando ta[Práctica 9 - Implementando tareas de ETL (2).pdf](https://github.com/user-attachments/files/26637711/Practica.9.-.Implementando.tareas.de.ETL.2.pdf)
-reas de ETL (1).pdf](https://github.com/user-attachments/files/26637688/Practica.8.-.Implementando.tareas.de.ETL.1.pdf)
+[Práctica 8 - Implementando tareas de ETL (1).pdf](https://github.com/user-attachments/files/26637688/Practica.8.-.Implementando.tareas.de.ETL.1.pdf)
 
 [Práctica 9 - Implementando tareas de ETL (2).pdf](https://github.com/user-attachments/files/26637714/Practica.9.-.Implementando.tareas.de.ETL.2.pdf)
 
