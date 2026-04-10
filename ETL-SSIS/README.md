@@ -32,6 +32,5 @@ Los datos procesados se insertan en tablas de SQL Server.
 [Práctica 9 - Implementando tareas de ETL (2).pdf](https://github.com/user-attachments/files/26637714/Practica.9.-.Implementando.tareas.de.ETL.2.pdf)
 
 
-[Práctica 10_ Implementando tareas de SSAS (1).pdf](https://github.com/user-attachments/files/26637774/Practica.10_.Implementando.tareas.de.SSAS.1.pdf)
 
 
