@@ -33,4 +33,6 @@ reas de ETL (1).pdf](https://github.com/user-attachments/files/26637688/Practica
 [Práctica 9 - Implementando tareas de ETL (2).pdf](https://github.com/user-attachments/files/26637714/Practica.9.-.Implementando.tareas.de.ETL.2.pdf)
 
 
+[Práctica 10_ Implementando tareas de SSAS (1).pdf](https://github.com/user-attachments/files/26637774/Practica.10_.Implementando.tareas.de.SSAS.1.pdf)
+
 
